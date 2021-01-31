@@ -1,5 +1,5 @@
 import os
-path = r'F:\CU acadamics\2020 jul-dec\ai-iot lab\exp-3'
+path = r'C:\user\ai-lab\exp-3'
 os.environ['PATH']+=':'+path
 from deepface import DeepFace
 from PIL import Image
